@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "List all databases"
+git commit -m "Create a database"
 git push
