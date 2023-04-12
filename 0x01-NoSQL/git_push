@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "All document"
+git commit -m "All matches"
 git push
