@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Where can I learn Python?"
+git commit -m "Log stats"
 git push
