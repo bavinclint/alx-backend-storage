@@ -1,0 +1,4 @@
+#!/bin/bash
+git add .
+git commit -m "We are all unique!"
+git push
