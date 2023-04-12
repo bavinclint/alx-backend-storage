@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Average weighted score"
+git commit -m "Average weighted score for all!"
 git push
