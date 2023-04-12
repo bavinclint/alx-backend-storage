@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "All matches"
+git commit -m "count"
 git push
