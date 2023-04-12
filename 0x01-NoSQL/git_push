@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Delete by match"
+git commit -m "Insert a document in Python"
 git push
