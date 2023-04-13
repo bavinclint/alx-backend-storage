@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Writing strings to Redis"
+git commit -m "Implementing an expiring web cache and tracker"
 git push
